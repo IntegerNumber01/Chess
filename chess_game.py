@@ -21,7 +21,7 @@ clock = pygame.time.Clock()
 
 # Load new icon
 # icon = resource_path('../Chess/Pixel Python Logo.png')
-icon = pygame.image.load('C:/Users/arjun/OneDrive - Hindupedia/Documents/Chess/Pixel Python Logo.png')
+icon = pygame.image.load('DIRECTORY/Pixel Python Logo.png')
 # icon = pygame.image.load(icon)
 pygame.display.set_icon(icon)
 font = pygame.font.SysFont('CenturyGothic', 40)
